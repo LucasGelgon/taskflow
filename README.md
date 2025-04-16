@@ -2,10 +2,8 @@
 
 Cette application web de ToDo permet de saisir, afficher et gérer des tâches avec des fonctionnalités telles que l'ajout, la suppression et le filtrage des tâches en fonction de leur état, priorité et dates.
 
----
 🖼️ Des captures d’écran explicatives sont disponibles sur : [lgelgon.fr/PageTaskflow](https://lgelgon.fr/PageTaskflow) <br>
 🎮 Une démo est également disponible [ici](https://lgelgon.fr/taskflow/)
----
 
 ## Fonctionnalités
 
